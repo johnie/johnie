@@ -14,4 +14,7 @@
 
 <hr />
 
+<div align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=johnie" alt="My github streak" /><br>
 <img src="https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/johnie-github-readme" alt="Visitors" />
+</div>
