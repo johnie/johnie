@@ -11,5 +11,4 @@
 <hr />
 
 <div align="center">
-<img src="https://donna.2brain.workers.dev/views/johnie-github-readme" alt="Visitors" />
 </div>
