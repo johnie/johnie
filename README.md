@@ -11,5 +11,5 @@
 <hr />
 
 <div align="center">
-<img src="https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/johnie-github-readme" alt="Visitors" />
+<img src="https://donna.2brain.workers.dev/views/johnie-github-readme" alt="Visitors" />
 </div>
